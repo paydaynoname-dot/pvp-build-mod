@@ -1,0 +1,13 @@
+{
+  "itemGroup.pvpbuild": "Example Mod Tab",
+  "block.pvpbuild.example_block": "Example Block",
+  "item.pvpbuild.example_item": "Example Item",
+
+  "pvpbuild.configuration.title": "PvpBuild Configs",
+  "pvpbuild.configuration.section.pvpbuild.common.toml": "PvpBuild Configs",
+  "pvpbuild.configuration.section.pvpbuild.common.toml.title": "PvpBuild Configs",
+  "pvpbuild.configuration.items": "Item List",
+  "pvpbuild.configuration.logDirtBlock": "Log Dirt Block",
+  "pvpbuild.configuration.magicNumberIntroduction": "Magic Number Text",
+  "pvpbuild.configuration.magicNumber": "Magic Number"
+}
